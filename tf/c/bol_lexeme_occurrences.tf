@@ -4,7 +4,7 @@
 @datasetName=Biblia Hebraica Stuttgartensia Amstelodamensis
 @email=shebanq@ancient-data.org
 @encoders=Constantijn Sikkel (QDF), and Dirk Roorda (TF), and Oliver Glanz (BOL)
-@valueType=str
+@valueType=int
 @version=c
 @website=https://shebanq.ancient-data.org
 @writtenBy=Text-Fabric
